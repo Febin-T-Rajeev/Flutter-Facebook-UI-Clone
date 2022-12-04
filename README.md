@@ -5,8 +5,7 @@
 ### download => app-release.apk
 <br>
 
-<table
-            border=0>
+<table border=0>
   <tr>
     <th><img src="assets/screenshots/s1.jpg"
     ></th>
@@ -15,4 +14,4 @@
     <th><img src="assets/screenshots/s3.jpg"
     ></th>
   </tr>
-  <tr>
+  </table>
